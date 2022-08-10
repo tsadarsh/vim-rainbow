@@ -32,7 +32,7 @@ keyword, for C++ for example).
 Vundle : Add this to .vimrc
 
 ```vim
-Plugin 'frazrepo/vim-rainbow'
+Plug 'frazrepo/vim-rainbow'
 ```
 
 # Simple Configuration
